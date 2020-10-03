@@ -2,7 +2,7 @@
 
 ### Overview
 
-The **Student loan** helps users determine how much money they can save by paying student loans off quicker than minimum monthly payments.
+The **Student loan** app helps users determine how much money they can save by paying student loans off quicker than minimum monthly payments.
 
 ### Parameters
 
