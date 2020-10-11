@@ -15,7 +15,7 @@ repayment <- function(total_loan, salary_net, salary_increase, accumulated_pmt, 
       
       break
       
-    } else {
+    } else  {
       
       monthly_payment <- ((salary_net - 21000)* 0.06/12) + 0
       
